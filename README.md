@@ -52,13 +52,13 @@ Current alumni platforms are static, resource-limited, with minimal features, lo
 
 # **Feasibility AND Viability**
 
-**Technical Feasibility : **MERN Stack expertise, third-party API integrations (LinkedIn, job portals), scalable architecture. 
+**Technical Feasibility :** MERN Stack expertise, third-party API integrations (LinkedIn, job portals), scalable architecture. 
 
-**Financial Viability : **Detailed budget, cost efficiency through open-source tools, and APIs.  
+**Financial Viability :** Detailed budget, cost efficiency through open-source tools, and APIs.  
 
-**Risk Management : **Budget reviews, phased integration testing, third-party API dependency mitigation.  
+**Risk Management :** Budget reviews, phased integration testing, third-party API dependency mitigation.  
 
-**Revenue Opportunities :**Funding through donations, event fees and mentorship.  
+**Revenue Opportunities :** Funding through donations, event fees and mentorship.  
 
 
 # **Features :**
