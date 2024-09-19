@@ -84,7 +84,8 @@ Current alumni platforms are static, resource-limited, with minimal features, lo
 
 # **URL :**
 
-**1. Project Demo Video URL :** 
+**1. Project Explanation Video URL :** https://youtu.be/AuoY2Qp15GI?si=WqIf6tgre8nk8jSe
+
 **2. Git hub Repository URL :** 
 
 
